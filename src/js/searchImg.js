@@ -58,10 +58,10 @@ function clearImagesContainer() {
   refs.imagesContainer.innerHTML = '';
 }
 
-function onMatchesNotFound() {
-  info({
-    title: 'Matches no found',
-    text: 'Please, try again',
-    delay: 1500,
-  });
-}
+// function onMatchesNotFound() {
+//   info({
+//     title: 'Matches no found',
+//     text: 'Please, try again',
+//     delay: 1500,
+//   });
+// }
